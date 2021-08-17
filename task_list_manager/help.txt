@@ -1,0 +1,14 @@
+Task list manager help:
+
+# Task lists
+display <path>
+create <path>
+remove <path>
+
+# Tasks
+add <path> <task>
+delete <path> <task>
+toggle <path> <task>
+
+# Other
+help
